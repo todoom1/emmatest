@@ -38,11 +38,11 @@ h1 {
 }
 
 .box {
-    background-color: #1B2132;
+    background-color: #000000;
 }
 
 .header-BZDH86 {
-    background-color: #181A2F;
+    background-color: #1a1a1a;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -55,7 +55,7 @@ h1 {
 }
 
 .header-BZDH86>.header-BZDH86-1 {
-    width: 100%;
+    width: 75%;
     display: flex;
     justify-content: space-between;
 }
@@ -79,7 +79,7 @@ h1 {
     border-top: 2px solid #000;
     display: flex;
     justify-content: center;
-    background-color: #181A2F;
+    background-color: #1a1a1a;
     margin-top: 3vw;
     padding: 3vw;
 }
@@ -94,7 +94,7 @@ h1 {
 
 .nav>a:first-child {
     margin-right: 5vw;
-    background-color: #131724;
+    background-color: #E6601B;
 }
 
 .yum {
@@ -115,24 +115,6 @@ h1 {
     animation: scaleFont 2s infinite;
 }
 
-@keyframes scaleFont {
-    0%,
-    20%,
-    50%,
-    80%,
-    100% {
-        transform: translateY(0) scale(1);
-        /* 初始位置和每次跳动的高度，同时取消旋转 */
-    }
-    40% {
-        transform: translateY(-2vw) scale(1.05);
-        /* 跳起的高度，同时逆时针旋转 */
-    }
-    60% {
-        transform: translateY(-1.5vw) scale(1);
-        /* 落下的高度，同时顺时针旋转 */
-    }
-}
 
 .gif {
     display: flex;
@@ -152,7 +134,7 @@ h1 {
 
 .YF28-CC>.list {
     width: 30%;
-    background-color: #272D3F;
+    background-color: #1a1a1a;
     border-radius: 2vw;
     margin: 3.5vw 1.5vw;
     box-shadow: 0 1px 6px 0 #000;
