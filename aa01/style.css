@@ -194,9 +194,6 @@ html {
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
 }
-*,::after,::before {
-    box-sizing: border-box
-}
 .mylist li.col-3 img{display:block;width:45px;height:45px;padding:8px;background:#fff;border:1px solid #eee;border-radius:10px;margin:0 auto}
 svg.icon{width:14px;height:14px;margin:0 5px 0 8px;vertical-align:-0.15em;fill:currentColor;overflow:hidden}
 .mylist{list-style:none;padding:10px 20px;position:relative;z-index:1000;margin:20px 0;border-radius:15px;background:#ffffffe6;/*backdrop-filter: blur(10px);*/box-shadow:0 0.5rem 0.625rem #d4d4d44d}
