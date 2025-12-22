@@ -29,7 +29,7 @@ document.getElementById("sj").addEventListener("click", function() {
   window.location.href = "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3113235";
 });
 document.getElementById('st').addEventListener('click', function() {
-	alert("星耀国际&胜天国际将预定于12月初上线！");
+	alert("胜天国际将预定于12月初上线！");
 });
 
 document.getElementById("0").innerHTML="🔥十年信誉平台推荐";
@@ -145,5 +145,6 @@ document.getElementById("54").innerHTML="虚拟币";
 document.getElementById("55").innerHTML="其他分享&VPN-开VPN可进蓝名";
 
 document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载注册狗狗云VPN，即可突破网络封锁正常使用";
+
 
 document.getElementById("57").innerHTML="PG777.MY";
