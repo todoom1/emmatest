@@ -28,8 +28,8 @@ document.getElementById("t1").addEventListener("click", function() {
 document.getElementById("sj").addEventListener("click", function() {
   window.location.href = "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3113235";
 });
-document.getElementById('st').addEventListener('click', function() {
-	alert("胜天国际将预定于12月底上线！");
+document.getElementById("st").addEventListener("click", function() {
+  window.location.href = "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26399&selfPlanId=4598";
 });
 
 document.getElementById("0").innerHTML="🔥十年信誉平台推荐";
@@ -148,4 +148,5 @@ document.getElementById("56").innerHTML="如遇本站功能无法正常使用，
 
 
 document.getElementById("57").innerHTML="PG777.MY";
+
 
