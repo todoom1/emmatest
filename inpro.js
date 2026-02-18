@@ -16,7 +16,7 @@ document.getElementById("bjl").addEventListener("click", function() {  window.lo
 document.getElementById("tymn").addEventListener("click", function() {  window.location.href = "https://test.f66b88sport.com/h5/index.html#/";});
 document.getElementById("cpmn").addEventListener("click", function() {  window.location.href = "https://pc.obcp.live/redirect.html";});
 document.getElementById("bzmj").addEventListener("click", function() {  window.location.href = "./bz";});
-document.getElementById("oy").addEventListener("click", function() {  window.location.href = "https://www.ouxyi.me/ul/YbU25D?channelId=40221549";});
+document.getElementById("oy").addEventListener("click", function() {  window.location.href = "https://www.vmutkhamuut.com/join/40221549";});
 document.getElementById("ba").addEventListener("click", function() {  window.location.href = "https://www.maxweb.academy/referral/earn-together/refer-in-hotsummer/claim?hl=zh-CN&ref=GRO_20338_SI463&utm_source=default";});
 document.getElementById("xnb").addEventListener("click", function() {  window.location.href = "./xnb.html";});
 document.getElementById("ggy").addEventListener("click", function() {  window.location.href = "https://maidongyun.com/index.php#/register?code=ZVPKqeOI";});
@@ -69,4 +69,5 @@ document.getElementById("50").innerHTML="Airav";
 document.getElementById("52").innerHTML="🔥PG模拟器大全";
 document.getElementById("54").innerHTML="虚拟币";
 document.getElementById("55").innerHTML="其他分享&VPN-开VPN可进蓝名";
+
 document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载注册狗狗云VPN，即可突破网络封锁正常使用";
