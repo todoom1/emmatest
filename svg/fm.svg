@@ -1,6 +1,6 @@
-<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg"><g>
-<rect height="100%" width="100%" y="0" x="0" fill="#ff6000"/>
-<rect height="90%" width="90%" y="5%" x="5%" fill="#ffD000"/>
-<text text-anchor="middle" dominant-baseline="middle" font-size="200" y="35%" x="50%" fill="#000000">PG</text>
-<text text-anchor="middle" dominant-baseline="middle" font-size="160" y="75%" x="50%" fill="#000000">666</text>
-</g></svg>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" version="1.1"><g>
+<rect x="0" y="0" width="300" height="300" rx="20" ry="20" fill="#ffa000"/>
+<rect x="0" y="60" width="300" height="180" fill="#f0ff00"/>
+<rect x="0" y="110" width="300" height="80" fill="#f00000"/>
+<text x="150" y="130" font-family="Arial" font-size="120" font-weight="bold" fill="#000000" text-anchor="middle">PG</text>
+<text x="150" y="260" font-family="Arial" font-size="120" font-weight="bold" fill="#000000" text-anchor="middle">666</text></g></svg>
