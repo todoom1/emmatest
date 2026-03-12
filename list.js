@@ -78,6 +78,7 @@ document.getElementById("t1n").innerHTML = ("TOP1体育");
 document.getElementById("xsdn").innerHTML = ("新时代");
 document.getElementById("wdn").innerHTML = ("问鼎娱乐");
 document.getElementById("dfn").innerHTML = ("赏金国际");
-document.getElementById("2").innerHTML = ("🔥十年信誉平台<br>⚽世界杯官投平台");
+document.getElementById("2").innerHTML = ("🔥十年信誉平台<br>⚽世界杯官方投注平台");
 document.getElementById("1").innerHTML="AA666.MY";
+
 
