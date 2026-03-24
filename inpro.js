@@ -1,4 +1,4 @@
-document.getElementById("pg").addEventListener("click", function() {  window.location.href =  "./tea1.html";
+document.getElementById("pg").addEventListener("click", function() {  window.location.href = "./tea1.html";});
 document.getElementById("pp").addEventListener("click", function() {  window.location.href = "./pptest.html";});
 document.getElementById("hackmnq").addEventListener("click", function() {  window.location.href = "./hacksaw.html";});
 document.getElementById("mg").addEventListener("click", function() {  window.location.href = "./mg.html";});
