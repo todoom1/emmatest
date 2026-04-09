@@ -77,7 +77,7 @@ window["document"]['getElementById']("wdn")['innerHTML'] = ("问鼎娱乐");
 window["document"]['getElementById']("dfn")['innerHTML'] = ("赏金国际");
 window["document"]['getElementById']("3")['innerHTML'] = ("FIFA World Cup 2026™<br>官方合作广告商");
 window["document"]['getElementById']("2")['innerHTML'] = ("🔥十年信誉平台<br>⚽世界杯官方投注平台");
-window["document"]['getElementById']("1")['innerHTML'] = "AN94.MY";
+window["document"]['getElementById']("1")['innerHTML'] = "AA666.MY";
 
 function showPopupOnce(popupId = 'sw_loaded') {
   const key = `popup_${popupId}_shown`;
@@ -85,7 +85,7 @@ function showPopupOnce(popupId = 'sw_loaded') {
   if (localStorage.getItem(key)) {
     return; 
   }
-  alert('欢迎访问AN94！');
+  alert('欢迎访问AA666！');
   localStorage.setItem(key, Date.now().toString());
 }
 window.addEventListener('load', function() {
