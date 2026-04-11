@@ -62,6 +62,10 @@ window["document"]['getElementById']("xsd")['addEventListener']("click", functio
 window["document"]['getElementById']("jl")['addEventListener']("click", function () {
     window['open'](amCQyv13, '_blank')
 });
+window["document"]['getElementById']("hy")['addEventListener']("click", function () {
+    window['open'](atob("aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTEzNzQ2JnNlbGZQbGFuSWQ9MTE3Nw=="), '_blank')
+});
+window["document"]['getElementById']("hyn")['innerHTML'] = ("汇赢国际");
 window["document"]['getElementById']("stn")['innerHTML'] = ("胜天国际");
 window["document"]['getElementById']("ffn")['innerHTML'] = ("非凡娱乐");
 window["document"]['getElementById']("yhn")['innerHTML'] = ("壹号娱乐");
