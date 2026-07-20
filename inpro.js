@@ -1,5 +1,4 @@
 const apps = [
-{id: 'tyzb', img: './png/tyzb.jpg', name: '赛事直播', url: 'https://damizhibo.com/', cat: 'gemes'},
 {id: 'pg', img: './svg/pg.svg', name: 'PG模拟器', url: './tea1.html', cat: 'gemes'},
 {id: 'pp', img: './svg/pp.svg', name: 'PP模拟器', url: './pptest.html', cat: 'gemes'},
 {id: 'hackmnq', img: './svg/pg.svg', name: 'HS模拟器', url: './hacksaw.html', cat: 'gemes'},
@@ -49,10 +48,7 @@ function renderApps() {
         li.id = app.id;
 
         li.innerHTML = `
-            <div class="app-icon">
-                <img src="${app.img}" alt="${app.name}">
-            </div>
-            <div class="app-name">${app.name}</div>
+            <div class="app-icon"><img src="${app.img}" alt="${app.name}"></div><div class="app-name">${app.name}</div>
         `;
         li.addEventListener('click', () => {
             window.open(app.url, '_blank', 'noopener,noreferrer');
@@ -62,7 +58,7 @@ function renderApps() {
     });
 }
 renderApps();
-document.getElementById("52").innerHTML="🔥PG模拟器大全";
+document.getElementById("52").innerHTML="PG模拟器";
 document.getElementById("54").innerHTML="虚拟币";
-document.getElementById("55").innerHTML="其他分享&VPN-打不开的网站请开VPN";
+document.getElementById("55").innerHTML="实用工具";
 document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载VPN，即可突破网络封锁正常使用";
