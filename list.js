@@ -1,5 +1,6 @@
 (function() {
     var secretApps = [
+{img: './png/xha.jpg', name: '西海岸', xurl: 'aHR0cHM6Ly9tb2ZmeW0uaGNqd2ouY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0yMDkwJnB0PTM2M0RGNkVCLTVCQ0UtQ0MzRi0xNzlGLTNDQjIxM0EyQzRFMQ=='}, 
 {img: './png/zhgj.jpg', name: '纵横国际', xurl: 'aHR0cDovL3hucXd6Zi50Y2txeHguY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDY3JnRvcElkPTcyNTE3ODUxNjg1NzU5Nzcmc2VsZlBsYW5JZD03ODM1'},
 {img: './png/ltgj.jpg', name: '龙腾国际', xurl: 'aHR0cHM6Ly9wc2t0a3gudGNrcXh4LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2NSZ0b3BJZD0yNzQ0MiZzZWxmUGxhbklkPTEzMTc='},
 {img: './png/xjh.jpg', name: '聚鑫汇', xurl: 'aHR0cHM6Ly95Ymt2YnoudGNrcXh4LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2NiZ0b3BJZD0yNzE4MCZzZWxmUGxhbklkPTEzNDQ='},
